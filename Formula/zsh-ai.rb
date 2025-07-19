@@ -1,8 +1,8 @@
 class ZshAi < Formula
   desc "Lightweight AI assistant for your terminal"
   homepage "https://github.com/matheusml/zsh-ai"
-  url "https://github.com/matheusml/zsh-ai/archive/refs/tags/v0.5.5.tar.gz"
-  sha256 "f04b2216d3e976f562916a079901f9a5d55b8c26a8c35e18e15e182144a901a8"
+  url "https://github.com/matheusml/zsh-ai/archive/refs/tags/v0.5.6.tar.gz"
+  sha256 "5645eab3b0455575f6c9a56b48f2518282656ed1c1826e689026f5d68c68b221"
   license "MIT"
 
   def install
